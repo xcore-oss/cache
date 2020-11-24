@@ -24,7 +24,7 @@ import (
 	"github.com/unknwon/com"
 	"gopkg.in/macaron.v1"
 
-	"github.com/go-macaron/cache"
+	"github.com/xcore-oss/cache"
 )
 
 func Test_LedisCacher(t *testing.T) {

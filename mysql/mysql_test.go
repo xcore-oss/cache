@@ -23,7 +23,7 @@ import (
 	. "github.com/smartystreets/goconvey/convey"
 	"gopkg.in/macaron.v1"
 
-	"github.com/go-macaron/cache"
+	"github.com/xcore-oss/cache"
 )
 
 func Test_MysqlCacher(t *testing.T) {

@@ -23,7 +23,7 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"github.com/go-macaron/cache"
+	"github.com/xcore-oss/cache"
 )
 
 // PostgresCacher represents a postgres cache adapter implementation.

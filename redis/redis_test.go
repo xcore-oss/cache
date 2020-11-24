@@ -20,11 +20,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/unknwon/com"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.com/unknwon/com"
 	"gopkg.in/macaron.v1"
 
-	"github.com/go-macaron/cache"
+	"github.com/xcore-oss/cache"
 )
 
 func Test_RedisCacher(t *testing.T) {

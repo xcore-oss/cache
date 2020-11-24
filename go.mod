@@ -1,4 +1,4 @@
-module github.com/go-macaron/cache
+module github.com/xcore-oss/cache
 
 go 1.12
 
@@ -10,6 +10,7 @@ require (
 	github.com/lib/pq v1.3.0
 	github.com/lunny/log v0.0.0-20160921050905-7887c61bf0de // indirect
 	github.com/lunny/nodb v0.0.0-20160621015157-fc1ef06ad4af
+	github.com/mattn/go-sqlite3 v1.14.5 // indirect
 	github.com/pelletier/go-toml v1.4.0 // indirect
 	github.com/siddontang/go v0.0.0-20180604090527-bdc77568d726 // indirect
 	github.com/siddontang/go-snappy v0.0.0-20140704025258-d8f7bb82a96d // indirect
@@ -20,6 +21,6 @@ require (
 	github.com/unknwon/com v0.0.0-20190804042917-757f69c95f3e
 	gopkg.in/bufio.v1 v1.0.0-20140618132640-567b2bfa514e // indirect
 	gopkg.in/ini.v1 v1.46.0
-	gopkg.in/macaron.v1 v1.3.4
+	gopkg.in/macaron.v1 v1.4.0
 	gopkg.in/redis.v2 v2.3.2
 )
