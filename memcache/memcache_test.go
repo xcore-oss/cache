@@ -22,7 +22,7 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/unknwon/com"
-	"gopkg.in/macaron.v1"
+	"github.com/xcore-oss/macaron"
 
 	"github.com/xcore-oss/cache"
 )

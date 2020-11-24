@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/unknwon/com"
-	"gopkg.in/macaron.v1"
+	"github.com/xcore-oss/macaron"
 )
 
 // Item represents a cache item.

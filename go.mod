@@ -19,8 +19,8 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/unknwon/com v0.0.0-20190804042917-757f69c95f3e
+	github.com/xcore-oss/macaron v1.5.1-0.20201124054220-533470d575c8 // indirect
 	gopkg.in/bufio.v1 v1.0.0-20140618132640-567b2bfa514e // indirect
 	gopkg.in/ini.v1 v1.46.0
-	gopkg.in/macaron.v1 v1.4.0
 	gopkg.in/redis.v2 v2.3.2
 )

@@ -21,7 +21,7 @@ import (
 	"time"
 
 	. "github.com/smartystreets/goconvey/convey"
-	"gopkg.in/macaron.v1"
+	"github.com/xcore-oss/macaron"
 
 	"github.com/xcore-oss/cache"
 )
